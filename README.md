@@ -1,3 +1,3 @@
 # demo
 
-# Anti Fascist
+# This is for login page only
